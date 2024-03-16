@@ -1,0 +1,8 @@
+pyzmq
+openai
+langchain_openai
+langchain_community
+langchain_core
+langchain
+python-dotenv
+neo4j
